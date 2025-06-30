@@ -1,3 +1,20 @@
+# API-INTEGRATION-AND-DATA-VISUALIZATION
+
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME : KHUSHBU KUMARI
+
+INTERN ID : CT04DF2535
+
+DOMAIN : PYTHON PROGRAMMING
+
+DURATION : FOUR WEEKS
+
+MENTOR : NEELA SANTHOSH KUMAR
+
+---
+
+
 # 🌤️ Weather Forecast Dashboard
 
 This Python project generates a **5-day weather dashboard** for any given city using the OpenWeatherMap API. It fetches, processes, and visualizes weather data in a clean image dashboard containing:
